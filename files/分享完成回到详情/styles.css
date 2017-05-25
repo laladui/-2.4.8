@@ -118,37 +118,30 @@
 }
 #u108 {
   position:absolute;
-  left:340px;
-  top:402px;
+  left:436px;
+  top:279px;
   width:0px;
   height:0px;
   font-size:18px;
 }
 #u108_seg0 {
   position:absolute;
-  left:0px;
+  left:-164px;
   top:-4px;
-  width:84px;
+  width:164px;
   height:8px;
 }
 #u108_seg1 {
   position:absolute;
-  left:76px;
-  top:-127px;
+  left:-164px;
+  top:-4px;
   width:8px;
-  height:131px;
-}
-#u108_seg2 {
-  position:absolute;
-  left:76px;
-  top:-127px;
-  width:20px;
-  height:8px;
+  height:6px;
 }
 #u109 {
   position:absolute;
-  left:30px;
-  top:-38px;
+  left:-131px;
+  top:-8px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
