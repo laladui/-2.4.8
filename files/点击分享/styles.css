@@ -171,21 +171,21 @@
 #u108_seg0 {
   position:absolute;
   left:-4px;
-  top:-95px;
+  top:-86px;
   width:8px;
-  height:95px;
+  height:86px;
 }
 #u108_seg1 {
   position:absolute;
   left:-4px;
-  top:-95px;
+  top:-86px;
   width:101px;
   height:8px;
 }
 #u109 {
   position:absolute;
-  left:-47px;
-  top:-99px;
+  left:-42px;
+  top:-90px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
@@ -195,7 +195,7 @@
   left:0px;
   top:0px;
   width:156px;
-  height:256px;
+  height:274px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -209,7 +209,7 @@
   left:395px;
   top:363px;
   width:156px;
-  height:256px;
+  height:274px;
 }
 #u111 {
   position:absolute;
