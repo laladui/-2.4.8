@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:894px;
+  width:846px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -141,7 +141,7 @@
   left:0px;
   top:0px;
   width:261px;
-  height:184px;
+  height:154px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -155,10 +155,10 @@
 }
 #u5 {
   position:absolute;
-  left:441px;
-  top:125px;
+  left:380px;
+  top:124px;
   width:261px;
-  height:184px;
+  height:154px;
   font-size:12px;
   color:#000000;
   line-height:16px;
@@ -172,8 +172,8 @@
 }
 #u7 {
   position:absolute;
-  left:282px;
-  top:334px;
+  left:76px;
+  top:289px;
   width:0px;
   height:0px;
   font-size:18px;
@@ -182,19 +182,26 @@
   position:absolute;
   left:0px;
   top:-4px;
-  width:294px;
+  width:298px;
   height:8px;
 }
 #u7_seg1 {
   position:absolute;
-  left:286px;
-  top:-25px;
+  left:290px;
+  top:-92px;
   width:8px;
-  height:29px;
+  height:96px;
+}
+#u7_seg2 {
+  position:absolute;
+  left:290px;
+  top:-92px;
+  width:14px;
+  height:8px;
 }
 #u8 {
   position:absolute;
-  left:108px;
+  left:146px;
   top:-8px;
   width:100px;
   visibility:hidden;
@@ -314,8 +321,8 @@
 }
 #u14 {
   position:absolute;
-  left:744px;
-  top:159px;
+  left:696px;
+  top:152px;
   width:150px;
   height:150px;
 }
@@ -328,8 +335,8 @@
 }
 #u16 {
   position:absolute;
-  left:819px;
-  top:309px;
+  left:771px;
+  top:302px;
   width:0px;
   height:0px;
   font-size:18px;
@@ -339,33 +346,33 @@
   left:-4px;
   top:0px;
   width:8px;
-  height:51px;
+  height:58px;
 }
 #u16_seg1 {
   position:absolute;
-  left:-483px;
-  top:43px;
-  width:487px;
+  left:-691px;
+  top:50px;
+  width:695px;
   height:8px;
 }
 #u16_seg2 {
   position:absolute;
-  left:-483px;
-  top:-24px;
+  left:-691px;
+  top:2px;
   width:8px;
-  height:75px;
+  height:56px;
 }
 #u16_seg3 {
   position:absolute;
-  left:-514px;
-  top:-24px;
-  width:39px;
+  left:-691px;
+  top:2px;
+  width:6px;
   height:8px;
 }
 #u17 {
   position:absolute;
-  left:-317px;
-  top:39px;
+  left:-392px;
+  top:46px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
