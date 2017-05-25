@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:374px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u70_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:324px;
+  height:666px;
+}
+#u70 {
+  position:absolute;
+  left:50px;
+  top:35px;
+  width:324px;
+  height:666px;
+}
+#u71 {
+  position:absolute;
+  left:2px;
+  top:325px;
+  width:320px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u70_ann {
+  position:absolute;
+  left:367px;
+  top:31px;
+  width:1px;
+  height:1px;
+}
